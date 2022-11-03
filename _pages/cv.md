@@ -7,7 +7,10 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[CV, updated 10/2022](Add/link)
+
+
+<!-- {% include base_path %}
 
 Education
 ======
@@ -56,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

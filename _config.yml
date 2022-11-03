@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yu Fang's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yu Fang"
 description              : &description "Research Assistant in NLP field."
 url                      : https://goucejia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
