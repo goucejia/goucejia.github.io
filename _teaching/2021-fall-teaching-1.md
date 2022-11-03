@@ -21,4 +21,6 @@ Heading 3
 
 - Objective: Provides a systematic introduction to fundamentals knowledge and various methods on predictive modeling and machine learning, and their applications in bussiness case studies.
 - Role: Graduate Teaching Assistant with Professor Yichen Song
-- Duty: Hold office hour and answer questions from students via Zoom & emails; Gradings for students' homework and exams
+- Duty: 
+	- Hold office hour and answer questions from students via Zoom & emails;
+	- Gradings for students' homework and exams.

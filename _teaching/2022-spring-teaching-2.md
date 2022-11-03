@@ -8,13 +8,8 @@ date: 2022-01-13
 location: "Minneapolis, MN"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- Objective: Provides a systematic introduction to fundamentals knowledge and various methods on predictive modeling and machine learning, and their applications in bussiness case studies.
+- Role: Graduate Teaching Assistant with Professor Yichen Song
+- Duty: 
+	- Hold office hour and answer questions from students via Zoom & emails;
+	- Gradings for students' homework and exams.
