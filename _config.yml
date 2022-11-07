@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Yu Fang"
   avatar           : "avatar.png"
-  bio              : "Research Assistant in Minnesota NLP group. MS student from University of Minnesota - Twin Cities, Department of Computer Science and Engineering."
+  bio              : "Research Assistant in Minnesota NLP group. \\MS student from University of Minnesota - Twin Cities, Department of Computer Science and Engineering."
   location         : "Minneapolis, Minnesota"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=I2BwLqQAAAAJ&hl=en"
   email            : "fangx174@umn.edu"
   researchgate     : "https://www.researchgate.net/profile/Yu-Fang-55"

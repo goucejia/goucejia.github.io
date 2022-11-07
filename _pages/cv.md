@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[CV, updated 10/2022](Add/link)
+[CV](Add/link) updated Nov/2022
 
 
 <!-- {% include base_path %}

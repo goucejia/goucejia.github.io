@@ -8,8 +8,8 @@ date: 2021-09-02
 location: "Minneapolis, MN"
 ---
 
-- Objective: Provides a systematic introduction to fundamentals knowledge and various methods on predictive modeling and machine learning, and their applications in bussiness case studies.
-- Role: Graduate Teaching Assistant with Professor [Yichen Song](https://carlsonschool.umn.edu/faculty/yicheng-song)
+- Objective: Provides a systematic introduction to fundamentals knowledge and various methods on predictive modeling and machine learning; assessing the performance of predictive models: logistic regression, decision trees, naïve Bayesian classifiers, support vector machine, ensemble learning, deep neural network, and their applications in structured and unstructured data for bussiness-related case studies.
+- Role: **Graduate Teaching Assistant** with Professor [Yichen Song](https://carlsonschool.umn.edu/faculty/yicheng-song)
 - Duty:
 	- Hold office hour weekly and answer questions from students via Zoom & emails;
 	- Gradings for students' homework and exams.

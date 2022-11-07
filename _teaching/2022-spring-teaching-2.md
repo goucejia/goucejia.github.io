@@ -8,8 +8,8 @@ date: 2022-01-13
 location: "Minneapolis, MN"
 ---
 
-- Objective: Rigorous analysis of algorithms / implementation.
-- Role: Graduate Teaching Assistant with Professor [James Moen](https://cse.umn.edu/cs/james-moen)
+- Objective: Rigorous analysis of algorithms / implementation. Course content includes algorithm analysis, sorting algorithms, binary trees, heaps, priority queues, heapsort, balanced binary search trees, AVL trees, hash tables and hashing, graphs, graph traversal, single source shortest path, minimum cost spanning trees.
+- Role: **Graduate Teaching Assistant** with Professor [James Moen](https://cse.umn.edu/cs/james-moen)
 - Duty:
 	- Lead 2 discussion sections weekly to discuss course content from lectures; explain practice problems related to course materials & homework; answer questions from students.
 	- Hold office hour weekly and answer questions from students in-person & via e-mails / Zoom;
