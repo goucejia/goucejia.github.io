@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yu Fang's Homepage"
+title: "Yu Fang's Homepage :whale:"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello! Welcome to my homepage!
+> Try again. Fail again. **Fail better**.
+
+
+Hello! Welcome to my homepage! :snowman:
 
 I am Yu Fang, a reseacher interested broadly in NLP and Maching Learning field.
 
