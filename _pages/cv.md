@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[CV](Add/link) updated Nov/2022
+[CV](https://goucejia.github.io/files/cv_2022.pdf) updated Nov/2022
 
 
 <!-- {% include base_path %}
